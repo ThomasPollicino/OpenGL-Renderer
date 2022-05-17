@@ -1,7 +1,7 @@
 # Directories
 .vs/
-Debug/
-x64/
+bin/
+bin-int/
 Dependencies/
 
 #Files 
